@@ -130,9 +130,21 @@ header nav ul li a:hover {
 }
 
 .grid-item.surf-report:hover {
-    height: 400px;
-
+    height: 360px;
 }
+
+.grid-item.led-wall:hover {
+    height: 360px;
+}
+
+.grid-item.run-buddy:hover {
+    height: 360px;
+}
+
+.grid-item.pastel.puzzels:hover {
+    height: 360px;
+}
+
 .contact-me h2 {
     padding-top: 1%;
     border-right: 3px solid navy;
