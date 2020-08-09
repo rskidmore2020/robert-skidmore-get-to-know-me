@@ -14,6 +14,6 @@ https://rskidmore2020.github.io/robert-skidmore-get-to-know-me/.
 Made by Robert Skidmore himself
 
 ## Screen Shot
-
+![Screenshot of Get To Know Robert Skidmore landing page.](https://github.com/rskidmore2020/robert-skidmore-get-to-know-me/blob/master/images/screen-shot-image.JPG "Robert Skidmore Landing Page")
 
 ## ©2020 Robert Skidmore
